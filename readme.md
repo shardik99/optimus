@@ -1,6 +1,8 @@
 # Optimus KVM
 
-Serial based KVM relying running on Arduino Leonardo
+KVM with Remote Power Management running off of an Arduino Leonardo over Serial
+
+List of currently supported commands:
 
 | Prefix        | Command       |
 | ------------- |:-------------:|
